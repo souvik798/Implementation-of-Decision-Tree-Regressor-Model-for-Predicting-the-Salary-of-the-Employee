@@ -1,7 +1,7 @@
-### Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee
-### AIM:To write a program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
+## Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee
+## AIM:To write a program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
 
-### Equipments Required:
+## Equipments Required:
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Jupyter notebook
 ## Algorithm
@@ -17,7 +17,7 @@ Anaconda – Python 3.7 Installation / Jupyter notebook
 9.Import metrics from sklearn to find the Mean Squared Error.
 10.Predict the result for the given values.
 ```
-Program:
+## Program:
 /*
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
 Developed by: SOUVIK KUNDU
@@ -48,12 +48,13 @@ mse
 r2=metrics.r2_score(y_test,y_pred)
 r2
 dt.predict([[5,6]])
-Output:
+## Output:
+
 1. data.head():
 ![1s](https://github.com/souvik798/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/94752764/14cff4a7-9f35-45ff-81e6-e7b2d1026a4e)
 
 2. data.info():
-   ![2s](https://github.com/souvik798/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/94752764/56b1c51e-e554-4812-8df9-50d7d1a4b772)
+![2s](https://github.com/souvik798/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/94752764/56b1c51e-e554-4812-8df9-50d7d1a4b772)
 
 3.isnull()and sum():
 ![3s](https://github.com/souvik798/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/94752764/ff649bf1-2c3c-41c7-89c2-1bc5eaf574d5)
@@ -71,5 +72,5 @@ Output:
 7. data prediction:
 ![7s](https://github.com/souvik798/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/94752764/f0c80755-62d7-473e-89c0-4de767ad1f0c)
 
-Result:
-Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
+## Result:
+   Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
