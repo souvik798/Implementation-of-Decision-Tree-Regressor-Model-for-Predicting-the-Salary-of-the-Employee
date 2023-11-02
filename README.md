@@ -1,5 +1,6 @@
 ## Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee
 ## AIM:
+
 To write a program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
 
 ## Equipments Required:
@@ -54,6 +55,7 @@ r2
 dt.predict([[5,6]])
 ```
 ## Output:
+
 1. data.head():
    ![1s](https://github.com/souvik798/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/94752764/14cff4a7-9f35-45ff-81e6-e7b2d1026a4e)
 
