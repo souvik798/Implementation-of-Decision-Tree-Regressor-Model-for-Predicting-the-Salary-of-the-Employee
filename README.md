@@ -5,6 +5,7 @@
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Jupyter notebook
 ## Algorithm
+```
 1.Import pandas to read the csv files.
 2.Display the head and tail of the dataset.
 3.Import LabelEncoder() from sklearn.preprocessing.
@@ -15,6 +16,7 @@ Anaconda – Python 3.7 Installation / Jupyter notebook
 8.Fit the Training set in a variable.
 9.Import metrics from sklearn to find the Mean Squared Error.
 10.Predict the result for the given values.
+```
 Program:
 /*
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
